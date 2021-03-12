@@ -1,7 +1,5 @@
 Se puede probar el proyecto aqui: https://sergiotasks.netlify.app
-
 Email: correo@correo.com
-
 Contraseña: 123456
 
 # Getting Started with Create React App
