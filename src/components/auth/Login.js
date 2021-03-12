@@ -69,6 +69,7 @@ const Login = (props) => {
                             id='email'
                             name='email'
                             placeholder='Tu Email'
+                            autocomplete="off"
                             value={email}
                             onChange={onChange}
                         />

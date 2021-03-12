@@ -86,6 +86,7 @@ const FormTarea = () => {
                         className='input-text'
                         placeholder='Nombre tarea...'
                         name='nombre'
+                        autocomplete="off"
                         value={nombre}
                         onChange={handleChange}
                     />

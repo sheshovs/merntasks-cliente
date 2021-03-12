@@ -92,6 +92,7 @@ const NuevaCuenta = (props) => {
                             id='nombre'
                             name='nombre'
                             placeholder='Tu Nombre'
+                            autocomplete="off"
                             value={nombre}
                             onChange={onChange}
                         />
@@ -103,6 +104,7 @@ const NuevaCuenta = (props) => {
                             id='email'
                             name='email'
                             placeholder='Tu Email'
+                            autocomplete="off"
                             value={email}
                             onChange={onChange}
                         />
